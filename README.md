@@ -6,8 +6,8 @@
 
 ## Screenshots  
 
-![Screenshot](![image](https://github.com/user-attachments/assets/3a61706a-8468-4399-aab3-f4170dbc43ac)
-)  
+
+![ Screenshot](https://github.com/user-attachments/assets/b97f72dc-2027-4759-afca-4249fb1e99b2)
 
 ---
 
