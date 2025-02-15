@@ -1,0 +1,9 @@
+.container {
+  width: 90%;
+}
+* {
+  font-family: Plus Jakarta Sans, sans-serif;
+}
+.casecard {
+  margin-top: 10% !important;
+}
